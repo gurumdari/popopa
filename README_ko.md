@@ -37,4 +37,4 @@ PoPoPa는 Jnode Framework를 기반으로 만들어진 무료 소프트웨어이
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6YYMTECUZXM9S)
 
 ### 다른 언어로 읽기
-[영어 (English)](https://github.com/gurumdari/jnode/blob/master/README.md)
+[영어 (English)](https://github.com/gurumdari/popopa/blob/master/README.md)
