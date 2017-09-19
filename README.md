@@ -38,4 +38,4 @@ PoPoPa is a free software made with Jnode Framework. If you use PoPoPa and Jnode
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6YYMTECUZXM9S)
 
 ### Read in anther language
-[Korean (한국어)](https://github.com/gurumdari/jnode/blob/master/README_ko.md)
+[Korean (한국어)](https://github.com/gurumdari/popopa/blob/master/README_ko.md)
