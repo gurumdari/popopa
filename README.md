@@ -32,7 +32,7 @@ PoPoPa is a JEE-based web application that can be installed on any WAS-enabled S
 ### Multilingual support
 PoPoPa provides a language pack function that automatically displays the language according to the language set in the Web Browser. Currently, Korean, English, and Japanese are built in. If necessary, language packs can be created and used. It provides functions that can be used only in a specific language, regardless of the language set in the Web Browser, as system settings and personal settings.
 
-<center><img src="images/languages.png?raw=true" width="399" height="310" /></center>
+<p align="center"><img src="images/languages.png?raw=true" width="399" height="310" /></p>
 
 ### Donation
 PoPoPa is a free software made with Jnode Framework. If you use PoPoPa and Jnode Framework, and take some benefits, please donate for PoPoPa and Jnode Framework. Through your donation, PoPoPa and Jnode Framework will be better. Also, I hope to see more free software and donation culture.
