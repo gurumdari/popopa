@@ -24,14 +24,14 @@ PoPoPa의 자세한 사용법은 아래의 PoPoPa 공식 사이트를 참조하�
 ### 사용 환경
 PoPoPa는 JEE 기반의 Web Application으로써, Dynamic Web Module 3.1 이상을 지원하는 WAS를 사용가능한 모든 Server OS에 설치가 가능하다. Client PC 환경은 별도의 Client용 프로그램 설치가 필요없고, HTML5를 지원하는 Web Browser를 통해 언제 어디서나 PoPoPa가 설치된 Server에 접속하면 바로 사용이 가능하다. 단, Internet Explorer의 경우 10 이상의 버전만 지원한다.
 
-<p align="center"><img src="images/html5.png?raw=true" width="352" height="339" /></p>
+<p align="center"><img src="images/html5.png?raw=true" width="352" /></p>
 
-<p align="center"><img src="images/ie10_11.png?raw=true" width="352" height="77" /></p>
+<p align="center"><img src="images/ie10_11.png?raw=true" width="352" /></p>
 
 ### 다국어 지원
 PoPoPa는 Web Browser에 설정된 언어에 따른 언어로 자동 표시되도록 언어팩 기능을 제공한다. 현재, 한국어, 영어, 일본어를 자체 내장하고 있으며, 필요시 직접 언어 팩을 만들어 사용할 수도 있다. Web Browser에 설정된 언어와 상관없이 특정 언어로만 사용할 수 있는 기능을 시스템 설정 및 개인 설정으로 할 수 있게 제공한다.
 
-<p align="center"><img src="images/languages.png?raw=true" width="399" height="310" /></p>
+<p align="center"><img src="images/languages.png?raw=true" width="399" /></p>
 
 ### 기부 Donate
 PoPoPa는 Jnode Framework를 기반으로 만들어진 무료 소프트웨어이다! 만약 PoPoPa와 Jnode Framework을 사용하면서 유용하다고 생각했다면, 자발적인 기부를 부탁드린다. 금액에 상관없이 참여한 기부금에 대해 보다 나은 PoPoPa와 Jnode Framework 개발로 보답하겠다. 아울러 우리 나라에서도 공개 소프트웨어가 활성화되고, 기부문화도 활성화되는 계기가 되었으면 한다.
