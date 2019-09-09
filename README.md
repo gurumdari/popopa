@@ -33,6 +33,11 @@ PoPoPa provides a language pack function that automatically displays the languag
 
 <p align="center"><img src="images/languages.png?raw=true" width="399" /></p>
 
+### Theme support (since 1.9)
+PoPoPa supports eye-protect, light, and dark Theme.
+
+<p align="center"><img src="images/en/theme.png?raw=true" width="820" /></p>
+
 ### Donation
 PoPoPa is a free software made with Jnode Framework. If you use PoPoPa and Jnode Framework, and take some benefits, please donate for PoPoPa and Jnode Framework. Through your donation, PoPoPa and Jnode Framework will be better. Also, I hope to see more free software and donation culture.
 
