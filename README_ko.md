@@ -33,6 +33,11 @@ PoPoPa는 Web Browser에 설정된 언어에 따른 언어로 자동 표시되�
 
 <p align="center"><img src="images/languages.png?raw=true" width="399" /></p>
 
+### 테마 지원 (1.9 버전부터)
+eye-protect, light, dark 테마를 적용할 수 있다.
+
+<p align="center"><img src="images/ko/theme.png?raw=true" width="820" /></p>
+
 ### 기부 Donate
 PoPoPa는 Jnode Framework를 기반으로 만들어진 무료 소프트웨어이다! 만약 PoPoPa와 Jnode Framework을 사용하면서 유용하다고 생각했다면, 자발적인 기부를 부탁드린다. 금액에 상관없이 참여한 기부금에 대해 보다 나은 PoPoPa와 Jnode Framework 개발로 보답하겠다. 아울러 우리 나라에서도 공개 소프트웨어가 활성화되고, 기부문화도 활성화되는 계기가 되었으면 한다.
 
